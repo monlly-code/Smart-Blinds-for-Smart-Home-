@@ -1,4 +1,5 @@
 # Smart-Blinds-for-Smart-Home-
+
 This code is intended for use with the *ESP32* and to be compiled using arduino IDE 
 **It allows our smart home ecosystem to detectthe ESP as a smart home device** (specifically, for opening and closing blinds), allowing it to be manipulated trough app, siri etc (Apple Home screenshot below).
 ---
